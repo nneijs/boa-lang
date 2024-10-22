@@ -1,0 +1,24 @@
+p("Enter number one")
+VAR num_one = inpt_int()
+p("Enter number two")
+VAR num_two = inpt_int()
+p("")
+
+p("Operation to calculate : ")
+p("")
+
+p("1. Addition (Input '1')")
+p("2. Subtwaction (Input '2')")
+p("3. Division (Input '3')")
+p("4. Multiplication (Input '4')")
+
+VAR operation = inpt()
+p("")
+
+p("Loading...")
+
+VAR solution = (IF operation == "1" THEN  (num_one + num_two) ELIF operation == "2" THEN (num_one - numba_two) ELIF operation == "3" THEN (num_one / num_two) ELIF operation == "4" THEN (num_one * num_two) ELSE "Invalid input, only input a number from 1 to 4.")
+
+p("")
+p("The solution is : ")
+p(solution)
