@@ -1,0 +1,6 @@
+VAR x = 1
+
+VAR y = "Hello, World!"
+
+p(y)
+p(x)
