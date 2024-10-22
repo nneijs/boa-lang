@@ -44,15 +44,26 @@ FNC snk(prefix) -> prefix + "World!"
 p(snk("Hello, "))
 
 EXTEND - extnd
+
 IS_FUNCTION - is_fnc
+
 IS_LIST - is_lst
+
 IS_STRING - is_str
+
 IS_NUMBER - is_num
+
 NULL - nll
+
 FALSE - fl
+
 MATH_PI - m_pi
+
 PRINT_RET - p_ret
+
 INPUT - inpt
+
 INPUT_INT - inpt_int
+
 CLEAR - clr
 
