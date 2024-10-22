@@ -1,14 +1,14 @@
 import os
-import boa
+import snk
 
 while True:
-    text = input("boa > ")
+    text = input("snk > ")
     if text.strip() == "clear":
         os.system('clear' if os.name == 'posix' else 'cls')
         continue
     if text.strip() == "":
         continue
-    result, error = boa.run("<stdin>", text)
+    result, error = snk.run("<stdin>", text)
 
     if error:
         print(error.as_string())
