@@ -20,6 +20,8 @@ FUNCTION COMMAND - FNC
 
 ```p(snk("Hello, "))```
 
+## Other commands
+
 EXTEND - extnd
 
 IS_FUNCTION - is_fnc
