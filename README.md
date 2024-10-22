@@ -11,11 +11,13 @@ PRINT COMMAND - p
 VARIABLE COMMAND - VAR
 
 ```VAR hello = "Hello, World!```
+
 ```p(hello)```
 
 FUNCTION COMMAND - FNC
 
 ```FNC snk(prefix) -> prefix + "World!"```
+
 ```p(snk("Hello, "))```
 
 EXTEND - extnd
