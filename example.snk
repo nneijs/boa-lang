@@ -1,3 +1,0 @@
-FNC boa(prefix) -> prefix + "World"
-
-p(boa("Hello "))
