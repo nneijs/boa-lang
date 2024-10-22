@@ -1,6 +1,3 @@
-Welcome file
-Welcome file
-
 ![boa_transparent](https://github.com/user-attachments/assets/64afb3b2-5dc8-4923-ada7-d3c9cdbeca48)
 
 # SNK
