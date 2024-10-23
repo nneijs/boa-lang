@@ -40,11 +40,10 @@ MATH_PI - m_pi
 
 PRINT_RET - p_ret
 
-For more information about these commands, go to https://snkdocs.framer.wiki
-
 INPUT - inpt
 
 INPUT_INT - inpt_int
 
 CLEAR - clr
 
+For more information about these commands, go to https://snkdocs.framer.wiki
